@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+ .card {
+        border-radius: 15px;  
+        background-color: #fff;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); 
+        padding: 30px;
+        transition: all 0.3s ease; 
+    }
+    
+    .card:hover {
+        box-shadow: 0 25px 40px rgba(0, 0, 0, 0.3); 
+    }
+    
+    .form-container {
+        margin-top: 50px;
+    }
+    
